@@ -1,0 +1,16 @@
+[
+    {
+        "type": "Employee",
+        "name": "khizar",
+        "emp_id": "1234",
+        "depart": "cs",
+        "salary": 100000.0
+    },
+    {
+        "type": "Employee",
+        "name": "1122",
+        "emp_id": "112",
+        "depart": "dept",
+        "salary": 1.0
+    }
+]
